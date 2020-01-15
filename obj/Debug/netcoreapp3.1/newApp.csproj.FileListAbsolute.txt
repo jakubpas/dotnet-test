@@ -1,0 +1,11 @@
+/Users/jp319769/dotnet/newApp/bin/Debug/netcoreapp3.1/newApp
+/Users/jp319769/dotnet/newApp/bin/Debug/netcoreapp3.1/newApp.deps.json
+/Users/jp319769/dotnet/newApp/bin/Debug/netcoreapp3.1/newApp.runtimeconfig.json
+/Users/jp319769/dotnet/newApp/bin/Debug/netcoreapp3.1/newApp.runtimeconfig.dev.json
+/Users/jp319769/dotnet/newApp/bin/Debug/netcoreapp3.1/newApp.dll
+/Users/jp319769/dotnet/newApp/bin/Debug/netcoreapp3.1/newApp.pdb
+/Users/jp319769/dotnet/newApp/obj/Debug/netcoreapp3.1/newApp.csprojAssemblyReference.cache
+/Users/jp319769/dotnet/newApp/obj/Debug/netcoreapp3.1/newApp.AssemblyInfoInputs.cache
+/Users/jp319769/dotnet/newApp/obj/Debug/netcoreapp3.1/newApp.AssemblyInfo.cs
+/Users/jp319769/dotnet/newApp/obj/Debug/netcoreapp3.1/newApp.dll
+/Users/jp319769/dotnet/newApp/obj/Debug/netcoreapp3.1/newApp.pdb
